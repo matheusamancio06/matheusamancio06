@@ -23,9 +23,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, moro em **Recife (P
 Gosto de construir aplicações completas, do banco de dados até a interface, e de ver o resultado sendo usado por pessoas de verdade. Meu foco atual é **desenvolvimento web full stack**, e venho estudando **Inteligência Artificial** para aplicar em produtos úteis.
 
 - 🔭 Construindo sistemas de gestão, apps mobile e aplicações web
-- 🌱 Aprofundando em **TypeScript, Angular e back-end**
+- 🌱 Aprofundando em **Java, Spring Boot, TypeScript e Angular**
 - 🤖 Explorando **IA** e como integrá-la a aplicações web
-- 💬 Pergunte-me sobre **Java, JavaScript, Angular e SQL**
+- 💬 Pergunte-me sobre **Java, JavaScript, Angular, SQL e Docker**
 - 📫 Aberto a oportunidades e a boas conversas sobre tecnologia
 
 ---
@@ -46,11 +46,13 @@ Gosto de construir aplicações completas, do banco de dados até a interface, e
 ![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=dd0031)
 ![Ionic](https://img.shields.io/badge/Ionic-0d1117?style=for-the-badge&logo=ionic&logoColor=3880ff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=7952b3)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d1117?style=for-the-badge&logo=springboot&logoColor=6db33f)
 ![Sass](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=cc6699)
 
 **Bancos de dados, deploy e ferramentas**
 
 ![NoSQL](https://img.shields.io/badge/NoSQL-0d1117?style=for-the-badge&logo=mongodb&logoColor=47a248)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ed)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
