@@ -100,8 +100,8 @@ Gosto de construir aplicações completas, do banco de dados até a interface, e
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=matheusamancio06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=c9d1d9&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusamancio06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusamancio06&theme=github_dark" alt="Detalhes do perfil" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheusamancio06&theme=github_dark" alt="Repositórios por linguagem" />
 
 <img src="https://streak-stats.demolab.com?user=matheusamancio06&theme=tokyonight&hide_border=true&background=0d1117&ring=a371f7&fire=f78166&currStreakLabel=58a6ff&locale=pt_BR" alt="Sequência de contribuições" />
 
